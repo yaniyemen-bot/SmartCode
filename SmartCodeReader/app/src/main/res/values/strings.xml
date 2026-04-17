@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SmartCode Reader</string>
+    <string name="upload_btn">Upload PDF/Image</string>
+    <string name="processing">Processing with AI...</string>
+    <string name="empty_state">No products scanned yet</string>
+    <string name="export_btn">Export XLSX</string>
+    <string name="title_results">Scan Results</string>
+</resources>

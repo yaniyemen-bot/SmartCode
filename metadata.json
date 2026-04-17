@@ -1,0 +1,6 @@
+{
+  "name": "Remix: SmartCode Reader",
+  "description": "An AI-powered system for reading product codes from PDFs and standardizing names in Arabic and English using global data sources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
